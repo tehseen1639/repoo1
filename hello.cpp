@@ -6,4 +6,7 @@ void getname(){
 int main(){
     cout<<"hello";
     cout<<"world";
+
+
+    cout<<"helllo world";
 }
